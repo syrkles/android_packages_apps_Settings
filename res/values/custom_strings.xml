@@ -330,4 +330,11 @@
     <string name="data_usage_app_restrict_wifi">Wi\u2011Fi data</string>
     <string name="data_usage_app_restrict_wifi_summary">Enable usage of Wi\u2011Fi data</string>
 
+    <!-- Ambient Play -->
+    <string name="ambient_play_cat">Now playing</string>
+    <string name="ambient_recognition_title">Enable Now Playing</string>
+    <string name="ambient_recognition_summary">Be notified of music being played around you.</string>
+    <string name="ambient_recognition_lockscreen_title">Show Now Playing</string>
+    <string name="ambient_recognition_lockscreen_summary">On the lockscreen</string>
+
 </resources>
