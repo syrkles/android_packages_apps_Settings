@@ -318,6 +318,15 @@
         <item>60000</item>
         <item>120000</item>
         <item>300000</item>
+
+    <!-- Ambient Play scan interval -->
+    <string-array name="ambient_recognition_interval_entries">
+        <item>@string/ambient_recognition_interval_120sec</item>
+        <item>@string/ambient_recognition_interval_180sec</item>
+    </string-array>
+     <string-array name="ambient_recognition_interval_values" translatable="false">
+        <item>120000</item>
+        <item>180000</item>
     </string-array>
 
 </resources>
